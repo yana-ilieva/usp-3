@@ -7,5 +7,6 @@ public class Main {
 
     private String getMessage() {
         return "Message.";
+        System.out.println("Hello from Mariyan");
     }
 }
