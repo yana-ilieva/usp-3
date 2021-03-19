@@ -4,4 +4,8 @@ public class Main {
         System.out.println("Hello from Mariyan");
         System.out.println("Hi again.");
     }
+
+    private String getMessage() {
+        return "Message.";
+    }
 }
